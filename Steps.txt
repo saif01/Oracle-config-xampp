@@ -1,0 +1,16 @@
+Step-1
+Extert oracle clint file to c drive
+
+Step-2
+copy file path and put in two environment section (System variable and User variable)
+Edit path and add as new and save.
+
+Step-3
+Add same file path name as TNS_ADMIN
+
+Step-4
+Copy 3 dll file to 
+C:\xampp\apache\bin
+
+Step-5
+Uncomment extension=oci8_12c  from php.ini
